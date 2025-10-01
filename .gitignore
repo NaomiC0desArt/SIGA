@@ -1,0 +1,146 @@
+# Carpetas de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+<<<<<<< HEAD
+# Archivos y carpetas de compilación
+=======
+# Archivos y carpetas de compilaciÃ³n
+>>>>>>> origin/adm-Engel-20230605
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.mdb
+*.log
+
+# Archivos de Rider y VS Code
+.idea/
+.vscode/
+
+# Archivos generados por el compilador
+*.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
+*.csproj.AssemblyReference.cache
+*.GeneratedMSBuildEditorConfig.editorconfig
+*.dtbcache.v2
+*.futdcache.v2
+*.vsidx
+
+# Resultados de tests
+TestResults/
+
+<<<<<<< HEAD
+# Publicación
+=======
+# PublicaciÃ³n
+>>>>>>> origin/adm-Engel-20230605
+publish/
+*.dbmdl
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Bases de datos locales o temporales
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+<<<<<<< HEAD
+# Archivos JSON de caché u otros temporales
+*.json
+
+# Archivos binarios específicos de proyectos VS
+=======
+# Archivos JSON de cachÃ© u otros temporales
+*.json
+
+# Archivos binarios especÃ­ficos de proyectos VS
+>>>>>>> origin/adm-Engel-20230605
+*.bin
+*.v2
+*.bak
+*.swp
+# Carpetas de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+<<<<<<< HEAD
+# Archivos y carpetas de compilación
+=======
+# Archivos y carpetas de compilaciÃ³n
+>>>>>>> origin/adm-Engel-20230605
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.mdb
+*.log
+
+# Archivos de Rider y VS Code
+.idea/
+.vscode/
+
+# Archivos generados por el compilador
+*.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
+*.csproj.AssemblyReference.cache
+*.GeneratedMSBuildEditorConfig.editorconfig
+*.dtbcache.v2
+*.futdcache.v2
+*.vsidx
+
+# Resultados de tests
+TestResults/
+
+<<<<<<< HEAD
+# Publicación
+=======
+# PublicaciÃ³n
+>>>>>>> origin/adm-Engel-20230605
+publish/
+*.dbmdl
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Bases de datos locales o temporales
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+<<<<<<< HEAD
+# Archivos JSON de caché u otros temporales
+*.json
+
+# Archivos binarios específicos de proyectos VS
+=======
+# Archivos JSON de cachÃ© u otros temporales
+*.json
+
+# Archivos binarios especÃ­ficos de proyectos VS
+>>>>>>> origin/adm-Engel-20230605
+*.bin
+*.v2
+*.bak
+*.swp
